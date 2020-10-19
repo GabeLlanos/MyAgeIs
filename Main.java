@@ -6,4 +6,10 @@ class Main {
 
  if(age != 15 )
  { 
+ System.out.println("I am still" + myAge + "years old");
    
+   if (age == 15)
+   System.out.println("I am " + myAge + "years old");
+ }
+  }
+}
